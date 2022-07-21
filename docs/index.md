@@ -5,9 +5,6 @@
 - une petite histoire de l'informatique :
 
     - [vidéo complète](https://youtu.be/16udHcMYRFA)
-    - [https://www.inria.fr/fr/elements-dhistoire-de-linformatique](https://www.inria.fr/fr/elements-dhistoire-de-linformatique)
-    - [La playlist comprenant 5 vidéos](https://www.youtube.com/playlist?list=PLWvGMqXvyJAMj8f57Hnk3U7oZP8Gi7OyR)
-
     - Relever des mots clés (et rechercher leur définition en petits groupes ?) pour restitution globale ;
 
 ## Les outils indispensables de l'année
@@ -15,7 +12,7 @@
 ???info " Applications à charger" 
     Carnets - permet de la programmation en python <br>
     La suite office : Word - Excel - OneDrive - Outlook <br>
- ???info "Comptes à créer" 
+ ???info " Comptes à créer" 
      Khan Academy - pour apprendre à créer des sites Web (HTML - CSS)<br>
      Github - permettra d'enrichir le cours sur les différentes activités. 
      
