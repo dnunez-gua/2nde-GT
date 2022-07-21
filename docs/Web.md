@@ -92,14 +92,14 @@ Une petite vidéo :
 
 ![Serveurs](./Images/baie-serveur.jpg)<br>
 
-### Web Statique
+### Web Statique - Equipe 4
 
 1. Donner un exemple de page web statique
 2. Quelle est l'utilité d'un web statique par rapport au dynamique ?
 3. Quel langages permettent de rendre une page web statique interactive ?
 
 
-### Web dynamique
+### Web dynamique - Equipe 4
 
 1. Donne un exemple de page web dynamique
 3. Quelle est l'utilité d'un web dynamique par rapport au statique ?
@@ -107,7 +107,7 @@ Une petite vidéo :
 
 
 
-### Le protocole HTTP 
+### Le protocole HTTP  - Equipe 5
 
 Voici un exemple de requête HTTP :
 
@@ -119,8 +119,8 @@ Une fois la requête reçue, le serveur va renvoyer une réponse, voici un exemp
 
 ![http](./Images/web-reponse-requete.png)<br>
 
-Voici le code affiché dans une console lors d' une requête HTTP :
-Autre exemple de requête 
+
+Autre exemple de requête <br>
 ![http](./Images/web-http-questions.gif)
 
 A l'aide de ces exemples et de recherche sur Internet :
