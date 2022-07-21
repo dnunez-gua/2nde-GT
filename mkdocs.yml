@@ -19,6 +19,7 @@ docs_dir: docs
 # Menu de navigation
 nav: 
     - La page d'accueil : index.md
+    - Thème 1 : Web.md
     
 
 
