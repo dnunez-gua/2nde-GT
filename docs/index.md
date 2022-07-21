@@ -12,9 +12,10 @@
 ???info " Applications à charger" 
     Carnets - permet de la programmation en python <br>
     La suite office : Word - Excel - OneDrive - Outlook <br>
- ???info " Comptes à créer" 
-     Khan Academy - pour apprendre à créer des sites Web (HTML - CSS)<br>
-     Github - permettra d'enrichir le cours sur les différentes activités. 
+
+???info " Comptes à créer" 
+    Khan Academy - pour apprendre à créer des sites Web (HTML - CSS)<br>
+    Github - permettra d'enrichir le cours sur les différentes activités. 
      
     
 
