@@ -36,7 +36,7 @@ Suivre les leçons de la Khan Academy : [KhanAcademy, introduction à HTML/CSS](
 
 Par équipe vous allez publier une page web contenant au moins un titre et deux sous-titres, trois paragraphes, une images, un lien hypertexte afin de présenter l'un des sujets suivants en répondant à minima aux questions associées :
 
-### Le HTML
+### Le HTML - Equipe 1
 
 - Donner la signification de HTML ?
 - Quel est l'histoire de ce langage ?
@@ -48,7 +48,7 @@ Par équipe vous allez publier une page web contenant au moins un titre et deux 
 - ...
 
 
-### Le CSS
+### Le CSS - Equipe 1
 
 - Donner la signification de CSS ?
 - Quel est l'histoire de ce langage ?
@@ -59,41 +59,36 @@ Par équipe vous allez publier une page web contenant au moins un titre et deux 
 - Aujourd'hui, l'usage de quelle version de CSS est recommandée par le W3C ?
 - ...
 
-### Les URL
-L'URL ( Uniform Ressource Locator ) indique « l'endroit » où se trouve une ressource sur un ordinateur.<br>
+### Les URL - Equipe 2
 
-Dans la barre d'adresse de votre navigateur web vous trouverez, quand vous visitez un site, des choses du genre : "http://www.ac-grenoble.fr/disciplines/informatiquelycee/index.html". 
-
-La partie "http" est le protocole <br>
-La partie "www.ac-grenoble.fr" est l'adresse symbolique (que l'on reverra dans le thème INTERNET) <br>
-La partie "/disciplines/informatiquelycee/index.html" s'appelle une URL, c'est le chemin de la page demandée à partir de la racine du domaine ac-grenoble.fr<br>
-
-Une URL permet d'identifier une ressource (par exemple un fichier) sur un réseau. <br>
-Un fichier peut se trouver dans un dossier qui peut lui-même se trouver dans un autre dossier... On parle d'une structure en arborescence, car elle ressemble à un arbre à l'envers : <br>
+- Dans la barre d'adresse de votre navigateur web vous trouverez, entrer le site  : "http://www.ac-grenoble.fr/disciplines/informatiquelycee/index.html". 
+- Expliquer chacune des parties.
+- A l'aide du schéma suivant, définissez et donnez des exemples d'URL
 ![URL](./Images/web-arborescence.png)<br>
 
-ou schématiser : 
-
-![URL](./Images/web-url.jpeg)<br>
 
 
-### Les cookies 
+### Les cookies - Equipe 3
 
 Une petite vidéo :
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/x16lt53" width="100%" height="100%" allowfullscreen > </iframe> </div>
 
+### RGPD - Equipe 3
 
-### Les clients / serveurs 
+1. Quelle est la signification du sigle RGPD ?
+2. Lister quelques exemples d'utilisation.
+3. Quelles sont les conséquences sur internet ?
 
-Deux ordinateurs en réseau peuvent s'échanger des données. Dans la plupart des cas ces échanges ne sont pas "symétriques" : en effet un ordinateur A va souvent se contenter de demander des ressources (fichiers contenant du texte, photos, vidéos, sons...) à un ordinateur B. L'ordinateur B va lui se contenter de fournir des ressources à tous les ordinateurs qui lui en feront la demande. On dira alors que l'ordinateur A (celui qui demande des ressources) est un client alors que l'ordinateur B (celui qui fournit les ressources) sera qualifié de serveur. <br>
 
-Sur internet, ce modèle client/serveur domine assez largement, même s'il existe des cas où un ordinateur pourra jouer tour à tour le rôle de client et le rôle de serveur (exemple le "peer to peer", voir le module "Internet"), très souvent, des ordinateurs (les clients) passeront leur temps à demander des ressources à d'autres ordinateurs (les serveurs) . Par exemple, comme expliqué dans l'exemple ci-dessus on retrouve cet échange client/serveur à chaque fois que l'on visite une page web. Il y a de fortes chances pour que votre ordinateur personnel joue quasi exclusivement le rôle de client (sauf si vous êtes un adepte du "peer to peer").<br>
-
-N'importe quel type d'ordinateur peut jouer le rôle de serveur, mais dans le monde professionnel les serveurs sont des machines spécialisées conçues pour fonctionner 24h sur 24h. Ils peuvent aussi avoir une grosse capacité de stockage afin de stocker un grand nombre de ressources (vidéos, sons,...).<br>
-
-Afin assurer une continuité de service, dans les sociétés, plusieurs serveurs assurent exactement le même rôle (on parle de redondance). Vous vous doutez bien que Google ne possède pas qu'un seul serveur, en effet, en moyenne, chaque seconde, c'est environ 65000 clients qui se connectent aux serveurs du moteur de recherche de Google. Aucun serveur, même extrêmement performant, ne serait capable de répondre à toutes ces requêtes. Google, Amazon ou encore Facebook possèdent un très grand nombre de serveurs afin de pouvoir satisfaire les demandes des utilisateurs en permanence. Ces entreprises possèdent d'immenses salles contenant chacune des centaines ou des milliers de serveurs (ces serveurs sont rangés dans des armoires appelées "baie serveur"). <br>
-
+### Les clients / serveurs  - Equipe 4
+*Ce sujet peut demander quelques notions sur Internet que vous pourrez définir et expliquer.*
+ A l'aide du site [Client-serveurs](https://pixees.fr/informatiquelycee/n_site/snt_web_clsv.html) vous pourrez :
+ 
+ - Expliquer ce qu'est un réseau 
+ - Définir dans ce contexte, les notions de clients et de serveurs
+ - Donner les avantages et les inconvenients de ce type de réseau. 
+ - Donner d'autres exemples de réseau, en les expliquant et donnant des applications. 
 
 ![Serveurs](./Images/baie-serveur.jpg)<br>
 
@@ -110,94 +105,35 @@ Afin assurer une continuité de service, dans les sociétés, plusieurs serveurs
 3. Quelle est l'utilité d'un web dynamique par rapport au statique ?
 4. Quel langages permettent de rendre la page web dynamique ? 
 
-### RGPD
-
-1. Quelle est la signification du sigle RGPD ?
-2. Lister quelques exemples d'utilisation.
-3. Quelles sont les conséquences sur internet ?
 
 
 ### Le protocole HTTP 
-
-Revenons sur l'adresse qui s'affiche dans la barre d'adresse d'un navigateur web et plus précisément sur le début de cette adresse c'est-à-dire le "http"
-Selon les cas cette adresse commencera par http ou https (nous verrons ce deuxième cas à la fin de cette activité).
-Le protocole (un protocole est ensemble de règles qui permettent à 2 ordinateurs de communiquer ensemble) HTTP (HyperText Transfert Protocol) va permettre au client d'effectuer des requêtes à destination d'un serveur web. En retour, le serveur web va envoyer une réponse.
-
-Voici une version simplifiée de la composition d'une requête HTTP (client vers serveur) :
-
-- La méthode employée pour effectuer la requête
-- L'URL de la ressource
-- La version du protocole utilisé par le client (souvent HTTP 1.1)
-- Le navigateur employé (Firefox, Chrome) et sa version
-- Le type du document demandé (par exemple HTML)
-...
-
-Certaines de ces lignes sont optionnelles.
 
 Voici un exemple de requête HTTP :
 
 ![http](./Images/web-requete-serveur.png)<br>
 
-Nous avons ici plusieurs informations :
-- GET est la méthode employée (voir ci-dessous)
-- /mondossier/monFichier.html correspond l'URL de la ressource demandée
-- HTTP/1.1 : la version du protocole est la 1.1
-- Mozilla/5.0 : le navigateur web employé est Firefox de la société Mozilla
-- text/html : le client s'attend à recevoir du HTML
-
-
-Revenons sur la méthode employée :
-
-Une requête HTTP utilise une méthode (c'est une commande qui demande au serveur d'effectuer une certaine action). Voici la liste des méthodes disponibles :
-
-GET, HEAD, POST, OPTIONS, CONNECT, TRACE, PUT, PATCH, DELETE
-
-Détaillons 4 de ces méthodes :
-
-- GET : C'est la méthode la plus courante pour demander une ressource. Elle est sans effet sur la ressource.
-- POST : Cette méthode est utilisée pour soumettre des données en vue d'un traitement (côté serveur). 
-- DELETE : Cette méthode permet de supprimer une ressource sur le serveur.
-- PUT : Cette méthode permet de modifier une ressource sur le serveur
-
-
 Réponse du serveur à une requête HTTP
-
-
 
 Une fois la requête reçue, le serveur va renvoyer une réponse, voici un exemple de réponse du serveur :
 
 ![http](./Images/web-reponse-requete.png)<br>
 
-Voici quelques explications sur les éléments de cette réponse :
-
-Commençons par la fin : le serveur renvoie du code HTML, une fois ce code reçu par le client, il est interprété par le navigateur qui affiche le résultat à l'écran. Cette partie correspond au corps de la réponse.
-
-La 1ère ligne se nomme la ligne de statut :
-HTTP/1.1 : version de HTTP utilisé par le serveur
-200 : code indiquant que le document recherché par le client a bien été trouvé par le serveur. Il existe d'autres codes dont un que vous connaissez peut-être déjà : le code 404 (qui signifie «Le document recherché n'a pu être trouvé»).
-
-Les 5 lignes suivantes constituent l'en-tête de la réponse :
-une ligne nous intéresse plus particulièrement :
-
-Server: Apache/2.0.54 (Debian GNU/Linux) DAV/2 SVN/1.1.4
-
-Le serveur web qui a fourni la réponse http ci-dessus a comme système d'exploitation une distribution GNU/Linux nommée "Debian" (pour en savoir plus sur GNU/Linux, n'hésitez pas à faire vos propres recherches).
-
-"Apache" est le coeur du serveur web puisque c'est ce logiciel qui va gérer les requêtes http (recevoir les requêtes http en provenance des clients et renvoyer les réponses http). Il existe d'autres logiciels capables de gérer les requêtes HTTP (nginx, lighttpd...) mais, aux dernières nouvelles, Apache est toujours le plus populaire puisqu'il est installé sur environ la moitié des serveurs web mondiaux ! 
-
-Le "HTTPS" est la version "sécurisée" du protocole HTTP. Par "sécurisé" en entend que les données sont chiffrées avant d'être transmises sur le réseau. Seul le possesseur de la clé de déchiffrement sera en mesure de lire les données transmises sur le réseau. Il faut toujours vérifier que le protocole est bien utilisé (l'adresse commence par "https") avant de transmettre des données sensibles (coordonnées bancaires...). Si ce n'est pas le cas, passez votre chemin, car toute personne qui interceptera les paquets de données sera en mesure de lire vos données sensibles. 
-
-
-
-QUESTIONS :
 Voici le code affiché dans une console lors d' une requête HTTP :
-
+Autre exemple de requête 
 ![http](./Images/web-http-questions.gif)
 
-1. Quelle est l'adresse (URL) du site visité? .
-2. Quel est le type de fichier attendu ? 
-3. Quel est le système d'exploitation de l'ordinateur personnel qui émet la requête?
-4. Quel est le nom du navigateur utilisé et sa version? 
+A l'aide de ces exemples et de recherche sur Internet :
+
+- Expliquer dans les grandes lignes les requêtes HTTP
+- Expliquer les images données en exemple en faisant une description : 
+    - des URL
+    - des fichiers attendus
+    - des navigateurs web
+    - du système d'exploitation
+    - des requetes 
+    - des réponses aux requêtes, proposez-en d'autres 
+    - ...
 
 
 ### Les arnaques sur Internet
