@@ -19,7 +19,7 @@ docs_dir: docs
 # Menu de navigation
 nav: 
     - La page d'accueil : index.md
-    - Compétences Numérique : prerequis.md
+    - Compétences Numériques : prerequis.md
     - Thème 1 : Web.md
     
 
