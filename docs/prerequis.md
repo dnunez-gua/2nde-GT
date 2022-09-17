@@ -11,7 +11,7 @@ A ouvrir dans Safari, une fois complété vous pouvez le transmettre à votre en
 ??? tip "L'identifiant ecmorlaix ?"
 
     - Ton adresse ecmorlaix conserve le format suivant : **`prenom.nom@eleves.ecmorlaix.fr`**
-    - Ton identifiant ecoledirecte est la première lettre de ton prénom suivi de ton nom, exemple : **`pnom`**.
+    - Ton identifiant ecoledirecte a été changé à la première connexion
 
 !!! warning ""
 
