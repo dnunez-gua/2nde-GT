@@ -2,7 +2,7 @@
 
 ## Le suivi des compétences
 
-A ouvrir dans Safari, une fois complété vous pouvez le transmettre à votre enseignant en cliquant sur le carré avec la flèche qui va vers le haut ![Icone partage](./images/partager.PNG){width=10% align=left} puis "annoter". Cela génère un PDF que vous pouvez envoyer à votre enseignant (même icone) par Air Drop ou par mail.
+A ouvrir dans Safari, une fois complété vous pouvez le transmettre à votre enseignant en cliquant sur le carré avec la flèche qui va vers le haut ![Icone partage](./Images/partager.PNG){width=10% align=left} puis "annoter". Cela génère un PDF que vous pouvez envoyer à votre enseignant (même icone) par Air Drop ou par mail.
 
 ### Prérequis
 
@@ -19,7 +19,7 @@ A ouvrir dans Safari, une fois complété vous pouvez le transmettre à votre en
 
 ### Mise en place
 
-![Les applications de base](./images/appli_de_base.jpj){align=right width=45%}
+![Les applications de base](./Images/appli_de_base.jpj){align=right width=45%}
 
 - [ ] J’ai toutes les applications suivantes sur ma tablette :
     - [ ] Outlook
