@@ -61,7 +61,7 @@ Par équipe vous allez publier une page web contenant au moins un titre et deux 
 
 ### Les URL - Equipe 2
 
-- Dans la barre d'adresse de votre navigateur web vous trouverez, entrer le site  : "http://www.ac-grenoble.fr/disciplines/informatiquelycee/index.html". 
+- Dans la barre d'adresse de votre navigateur web vous trouverez, entrer le site  : "https://www1.ac-grenoble.fr/article/formations-scolaires-proposees-121615". 
 - Expliquer chacune des parties.
 - A l'aide du schéma suivant, définissez et donnez des exemples d'URL
 ![URL](./Images/web-arborescence.png)<br>
