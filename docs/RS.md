@@ -24,5 +24,8 @@ Répondre aux questions suivantes :
 
 ### Utilisateurs 
 
-- [ex1](./ImagesRS/utilisation.png)
-- [ex2](./ImagesRS/utilisation_monde.png)
+- ![doc1](./ImagesRS/utilisation.png)
+- ![doc2](./ImagesRS/utilisation_monde.png)
+- ![doc3](./ImagesRS/revenus.png)
+
+
