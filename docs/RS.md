@@ -22,10 +22,10 @@ Répondre aux questions suivantes :
 
 ## Etudes 
 
-### Utilisateurs 
+### Utilisateurs <br>
 
-- ![doc1](./ImagesRS/utilisation.png)
-- ![doc2](./ImagesRS/utilisation_monde.png)
-- ![doc3](./ImagesRS/revenus.png)
+ ![doc1](./ImagesRS/utilisation.png)<br>
+ ![doc2](./ImagesRS/utilisation_monde.png)<br>
+ ![doc3](./ImagesRS/revenus.png)<br>
 
 
