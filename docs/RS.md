@@ -12,8 +12,17 @@
 ## Activité 
 
 Faire un site sur replit pour présenter un réseau social. 
-Répondre aux questions suivantes:
+Répondre aux questions suivantes :
+
 - A quoi sert-il ?
 - Comment fonctionne-t'il ? 
 - Donner des différences avec d'autres réseaux. 
 - Si vous utilisez plusieurs réseaux, expliquez en quoi ils sont complémentaires. 
+
+
+## Etudes 
+
+### Utilisateurs 
+
+[ex1](./ImagesRS/utilisation.png)
+[ex2](./ImagesRS/utilisation_monde.png)
