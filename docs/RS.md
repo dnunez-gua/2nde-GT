@@ -9,11 +9,8 @@
 - Définir un réseau social
 - Lister les fonctionnalités 
 
-
-
-
 ## Modèles économiques 
-
+Sources : Le Livre Scolaire - SNT
  ![doc1](./ImagesRS/rs.png)<br>
  ![doc2](./ImagesRS/utilisation_monde.png)<br>
  ![doc3](./ImagesRS/revenus.png)<br>
@@ -37,4 +34,19 @@ Bilan :
 - Commentez le slogan : " Quand c'est gratuit, c'est toi le produit".
 
 
+## FakeNews - Etude Argumentée
+Vous étudierez les documents suivants (sources : Site de L.Paternault)
+
+###  L'intox c'est nous 2 - diffusé par France Télévision 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QhrkrKXU7E4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Utilisateurs et utilisatrices des réseaux sociaux
+Lire le document suivant, puis indiquer quel mécanisme fait que des individus, même intelligents et éduqués, croient et propagent de fausses informations sur internet.
+[FakeNews-Utilisateurs](./ImagesRS/3-fakenews-utilisateurs.pdf)
+
+### Plates-formes de partage de contenus
+
+Les plates-formes commerciales de partage de contenu (Facebook, Youtube, etc.) favorisent-elles la propagation des fake news ?
+[FakeNews-Plates-Formes](./ImagesRS/3-fakenews-plates-formes.pdf)
 
