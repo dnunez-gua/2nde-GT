@@ -9,23 +9,32 @@
 - Définir un réseau social
 - Lister les fonctionnalités 
 
-## Activité 
-
-Faire un site sur replit pour présenter un réseau social. 
-Répondre aux questions suivantes :
-
-- A quoi sert-il ?
-- Comment fonctionne-t'il ? 
-- Donner des différences avec d'autres réseaux. 
-- Si vous utilisez plusieurs réseaux, expliquez en quoi ils sont complémentaires. 
 
 
-## Etudes 
 
-### Utilisateurs <br>
+## Modèles économiques 
 
  ![doc1](./ImagesRS/rs.png)<br>
  ![doc2](./ImagesRS/utilisation_monde.png)<br>
  ![doc3](./ImagesRS/revenus.png)<br>
+ 
+ 
+Faire un site sur replit pour présenter un réseau social (pas forcément donné dans les documents ci-dessus).<br>
+
+
+- date de création
+- pays d'origine
+- nom de son /ses fondateurs
+- nombre d'utilsateurs actuels (en France/dans le Monde)
+- principe sur lequel il se fonde
+- entreprise qu'il le possède
+- principale source de revenus.
+
+
+Bilan :
+
+- Mettre en commun les informations
+- Commentez le slogan : " Quand c'est gratuit, c'est toi le produit".
+
 
 
