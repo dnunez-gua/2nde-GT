@@ -39,7 +39,6 @@ Vous étudierez les documents suivants (sources : Site de L.Paternault)
 
 ###  L'intox c'est nous 2 - diffusé par France Télévision 
 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tSFSSMPRnRk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Utilisateurs et utilisatrices des réseaux sociaux
