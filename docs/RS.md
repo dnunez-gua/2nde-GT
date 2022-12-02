@@ -43,6 +43,7 @@ Vous étudierez les documents suivants (sources : Site de L.Paternault)
 
 ### Utilisateurs et utilisatrices des réseaux sociaux
 Lire le document suivant, puis indiquer quel mécanisme fait que des individus, même intelligents et éduqués, croient et propagent de fausses informations sur internet.
+
 [FakeNews-Utilisateurs](./ImagesRS/3-fakenews-utilisateurs.pdf)
 
 ### Plates-formes de partage de contenus
