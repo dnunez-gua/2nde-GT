@@ -86,6 +86,7 @@ Alice, Batoul, Clara, Dilan, Éloïse, Fatah, Grégory et Hamza sont dans la mê
 
 *Définition :*
 
+- La **distance** est le minimum d'aretes pour connecter deux sommets. 
 - L'**écartement** d'un sommet est la distance la plus grande qui existe entre lui et n'importe quel autre sommet du graphe. 
 - Le **diamètre** d'un graphe est le plus grand écartement de ses sommets. 
 - Le **centre** d'un graphe est le sommet qui a le plus petit écartement.
