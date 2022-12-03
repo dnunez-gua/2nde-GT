@@ -103,3 +103,17 @@ Reprendre le graphe précédent
 
 Dans la vidéo d’introduction, il est dit «Qu’en France, il ne faudrait que trois personnes pour relier tous nos concitoyens». Compléter la phrase suivante avec le terme de vocabulaire correct:Si l’on modélise les relations de l’ensemble de la population française par un graphe, alors le ......... du graphe est 3.
 
+
+### Activité
+
+Voici le graphe ci-dessous : 
+
+![graphe](./ImagesRS/graphe.png)
+
+On peut construire le tableau de relation (matrice) qui montre quels sommets ont une arête commune. 
+
+![relation](./ImagesRS/relation.png)
+
+Recopier et compléter les activités suivantes 
+
+![exercices](./ImagesRS/exographes.png)
