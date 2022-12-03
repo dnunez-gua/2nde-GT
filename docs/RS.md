@@ -48,6 +48,14 @@ Lire le document suivant, puis indiquer quel mécanisme fait que des individus, 
 
 ### Plates-formes de partage de contenus
 
-Les plates-formes commerciales de partage de contenu (Facebook, Youtube, etc.) favorisent-elles la propagation des fake news ?
+Les plates-formes commerciales de partage de contenu (Facebook, Youtube, etc.) favorisent-elles la propagation des fakes news ?
 [FakeNews-Plates-Formes](./ImagesRS/3-fakenews-plates-formes.pdf)
+
+
+## Bulles de filtres
+En vous servant du document, répondre aux questions suivantes.[Bulles de filtres](./ImagesRS/bulles-de-filtres.pdf)
+
+1.	Qu’est-ce qu’une bulle de filtre ?
+2.	Pourquoi les réseaux sociaux enferment-ils les utilisateurs dans de telles bulles ?
+3.	Pourquoi est-ce problématique ?
 
