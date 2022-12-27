@@ -41,3 +41,21 @@ Dans cette partie, on étudie les données du livre Histoires et cultures du lib
 ISBN 978-2-9539187-9-3 (br.) : 25 EUR
 EAN 9782953918793
 * Notice n° : FRBNF43580627
+
+
+
+1. Quelles sont les données permettant d'identifier précisement le livre ?
+2. Quelles données sont plutôt destinées à des personnes ? Quelles données sont plutôt destinées à des ordinateurs ? 
+3. Quelles sont les types de données ? Donner la nature et un exemple. 
+
+
+### Bilan 
+
+Recopier dans Word la syntèse suivante : 
+
+* Une **collection** est un ensemble d'objets (concrets ou abstraits) dont on collecte des données, partageant les mêmes descripteurs.
+* Un **objet** est un élément de cette collection.
+Un descripteur désigne l'aspect de l'objet concerné par la donnée.
+Une valeur est l'information elle-même.
+Le type d'une valeur est la nature de cette information.
+De plus, si une donnée concerne une personne, on dit que c'est une donnée personnelle.  
