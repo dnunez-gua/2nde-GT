@@ -55,7 +55,15 @@ Recopier dans Word la syntèse suivante :
 
 * Une **collection** est un ensemble d'objets (concrets ou abstraits) dont on collecte des données, partageant les mêmes descripteurs.
 * Un **objet** est un élément de cette collection.
-Un descripteur désigne l'aspect de l'objet concerné par la donnée.
-Une valeur est l'information elle-même.
-Le type d'une valeur est la nature de cette information.
-De plus, si une donnée concerne une personne, on dit que c'est une donnée personnelle.  
+* Un **descripteur** désigne l'aspect de l'objet concerné par la donnée.
+* Une **valeur** est l'information elle-même.
+* Le **type d'une valeur** est la nature de cette information.
+
+De plus, si une donnée concerne une personne, on dit que c'est une **donnée personnelle**. 
+
+### Applications 
+1. On considère le sac que vous emenez avec vous au lycée. La collection auquel il appartient est donc l'ensemble des articles vendus par le magasin où vous l'avez acheté.
+
+Donner quelques descripteurs pouvant s'appliquer à ce sac à dos, ainsi que les valeurs correspondantes.
+2. On considère les données vous concernant, dans la base de donnée d'Ecole Directe.
+Donner quelques descripteurs pouvant vous concerner, ainsi que les valeurs correspondantes.
