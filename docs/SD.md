@@ -18,8 +18,8 @@
      a. Pourquoi cette information n'est-elle pas suffisante pour identifier ce livre ?
      
      b. Quelle information devrais-je ajouter à ma recherche pour préciser de quel livre il s'agit ?
-     
- ### Etudier des données d'un livre 
+    
+### Etudier des données d'un livre 
  
 Dans cette partie, on étudie les données du livre Histoires et cultures du libre, de Camille Paloque-Bergès et Christophe Masutti. Sur sa notice sur le site de la BNF, on lit les informations suivantes.
 
