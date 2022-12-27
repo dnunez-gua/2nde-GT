@@ -62,8 +62,7 @@ Recopier dans Word la syntèse suivante :
 De plus, si une donnée concerne une personne, on dit que c'est une **donnée personnelle**. 
 
 ### Applications 
-1. On considère le sac que vous emenez avec vous au lycée. La collection auquel il appartient est donc l'ensemble des articles vendus par le magasin où vous l'avez acheté.
+1. On considère le sac que vous emenez avec vous au lycée. La collection auquel il appartient est donc l'ensemble des articles vendus par le magasin où vous l'avez acheté.Donner quelques descripteurs pouvant s'appliquer à ce sac à dos, ainsi que les valeurs correspondantes.
 
-Donner quelques descripteurs pouvant s'appliquer à ce sac à dos, ainsi que les valeurs correspondantes.
 2. On considère les données vous concernant, dans la base de donnée d'Ecole Directe.
 Donner quelques descripteurs pouvant vous concerner, ainsi que les valeurs correspondantes.
