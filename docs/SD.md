@@ -112,7 +112,7 @@ Répondre à la question.
 
 1. Creer un document Word, enregristrer-le dans votre dossier OneDrive/SNT sous le nom csv-python-NOM-prenom
 2. Que signifie les initiales du format csv, donner la signification en anglais et une traduction en français. 
-3. Telecharger le document [Informaticiens] (./SD/informaticiens.csv) et enregristrer-le dans votre OneDrive. 
+3. Telecharger le document [Informaticiens](./SD/informaticiens.csv) et enregristrer-le dans votre OneDrive. 
 4. Quel est le descripteur de ce fichier ? 
 5. Quel est le symbole 
 6. 
