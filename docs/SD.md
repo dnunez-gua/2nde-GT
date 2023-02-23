@@ -127,7 +127,7 @@ Répondre à la question.
 import pandas<br>
 prenoms = pandas.read_csv("dpt2021.csv", sep=";")<br>
 print(prenoms)<br>
-6. Executer le programme : <br>
+6. Executer le programme : 
 
 
   * Si vous voyez afficher un tableau, le programme s'est exécuté sans erreur : passez à la question suivante.<br>
