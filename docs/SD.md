@@ -172,13 +172,11 @@ Modifiez votre programme pour qu'il affiche la colonne des prénoms. Recopiez l'
 
 ### Recherche dans la base de données. 
 
-1.Recopier le programme suivant dans Thonny, et exécutez-le.
-
+1.Recopier le programme suivant dans Thonny, et exécutez-le.<br>
 import pandas<br>
 prenoms = pandas.read_csv("dpt2021.csv", sep=";")<br>
 recherche = prenoms.loc[(prenoms['dpt'] == "38"), :]<br>
 print(recherche)<br>
-
 Vérifiez que ne sont affichés que les prénoms donnés dans le département de l'Isère (38).
 
 2. Dans le programme précédent, remplacez la troisième ligne (recherche = prenoms.loc…) par :
@@ -209,7 +207,6 @@ recherche = prenoms.loc[(prenoms['dpt'] == "38") :]<br>
 recherche = recherche.loc[(prenoms['annais'] == "2019"):]<br>
 
 etc.
-
 
 5. Répondre à cette question en lisant le résultat du programme de la question précédente. Ignorer les prénoms rares.
 
