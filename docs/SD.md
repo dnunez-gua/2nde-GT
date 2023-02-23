@@ -184,7 +184,7 @@ Dans le cas de recherches plus complexes, on peut découper le travail en faisan
 la ligne recherche = prenoms.loc[(prenoms['dpt'] == "38") & (prenoms['annais'] == "2019"), :]<br>
 peut être remplacée par 
 recherche = prenoms.loc[(prenoms['dpt'] == "38") :]<br>
-recherche = recherche.loc[(prenoms['annais'] == "2019"):]<br>
+recherche = recherche.loc[(recherche['annais'] == "2021"):]<br>
 etc. 
 
 5. Répondre à cette question en lisant le résultat du programme de la question précédente. Ignorer les prénoms rares.
