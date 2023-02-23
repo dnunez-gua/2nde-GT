@@ -123,51 +123,33 @@ Répondre à la question.
 2. Telecharger le *Fichiers par départements de naissance* au format csv 
 3. Le decompresser et placer le fichier dpt2021.csv dans votre Ipad, dans votre dossier Carnet (pas dans OneDrive et ne surtout pas l'ouvrir)
 4. Ouvrir un fichier Carnets (dans le meme dossier que dpt2021, les 2 fichiers doivent communiquer). 
-5. Taper les lignes suivantes
-
+5. Taper les lignes suivantes :<br>
 import pandas<br>
 prenoms = pandas.read_csv("dpt2021.csv", sep=";")<br>
 print(prenoms)<br>
-
-6. Executer le programme : 
- 
- - Si vous voyez afficher un tableau, le programme s'est exécuté sans erreur : passez à la question suivante.
-
- - Si une erreur apparaît, essayez de la comprendre et de la corriger. Vérifier que le programme carnet et dpt2021.csv sont dans le même répertoire, vérifier que l'orthographe du fichier dpt2021.csv est correcte.
+6. Executer le programme : <br>
+  - Si vous voyez afficher un tableau, le programme s'est exécuté sans erreur : passez à la question suivante.<br>
+ - Si une erreur apparaît, essayez de la comprendre et de la corriger. Vérifier que le programme carnet et dpt2021.csv sont dans le même répertoire, vérifier que l'orthographe du fichier dpt2021.csv est correcte.<br>
 
 **Explication du tableau** 
 
-La première ligne correspond aux descripteurs du fichier :
-
-**sexe** : sexe du prénom (1 pour un garçon ; 2 pour une fille) ;
-
-**preusuel** : prénom ;
-
-**annais** : année de naissance (attention : il s'agit de l'année de naissance, et non pas du prénom Anaïs) ;
-
-**dpt** : département de naissance ;
-
-**nombre** : nombre d'enfants portant ce prénom.
-
-Certaines valeurs (pour les années et les départements) sont égales à XXXX. Cela correspond sans doute à des données incorrectes ou inconnues.
-
-Chaque ligne suivante correspond à une données différente. Par exemple, l'antépénultième ligne (avant-avant dernière ligne, numéro 3784670) signifie : *En 2013, dans le département de Seine-Saint-Denis (93), trois filles sont nées avec le prénom Zyna.*
-
-7. Complétez la phrase suivante avec les données d'une des lignes que vous voyez affichées *En ????, dans le département ???? (??), ??? ????? sont nés/nées avec le prénom ????.*
-
-Il est possible d'afficher une cellule du tableau en particulier. Par exemple, le programme suivant donne l'année de naissance de la ligne numéro 3784668.
-
+La première ligne correspond aux descripteurs du fichier :<br>
+**sexe** : sexe du prénom (1 pour un garçon ; 2 pour une fille) ;<br>
+**preusuel** : prénom ;<br>
+**annais** : année de naissance (attention : il s'agit de l'année de naissance, et non pas du prénom Anaïs) ;<br>
+**dpt** : département de naissance ;<br>
+**nombre** : nombre d'enfants portant ce prénom.<br>
+Certaines valeurs (pour les années et les départements) sont égales à XXXX. Cela correspond sans doute à des données incorrectes ou inconnues.<br>
+Chaque ligne suivante correspond à une données différente. Par exemple, l'antépénultième ligne (avant-avant dernière ligne, numéro 3784670) signifie : *En 2013, dans le département de Seine-Saint-Denis (93), trois filles sont nées avec le prénom Zyna.*<br>
+7. Complétez la phrase suivante avec les données d'une des lignes que vous voyez affichées *En ????, dans le département ???? (??), ??? ????? sont nés/nées avec le prénom ????.*<br>
+Il est possible d'afficher une cellule du tableau en particulier. Par exemple, le programme suivant donne l'année de naissance de la ligne numéro 3784668.<br>
 import pandas<br>
 prenoms = pandas.read_csv("dpt2021.csv", sep=";")<br>
 recherche = prenoms.loc[3784668, "annais"]<br>
 print(recherche)<br>
-
-
-8. Exécutez-ce programme et vérifiez qu'il donne la valeur attendue.
-
-9. Modifiez le programme précédent pour qu'il affiche uniquement un des prénoms du tableau. Recopiez sur votre compte-rendu la ligne de votre programme `recherche = prenoms.loc[???????].
-
-10. Il est aussi possible d'afficher toute une ligne ou toute une colonne, en utilisant la syntaxe prenoms.loc[3676679, :] (pour avoir toute la ligne numéro 3676679), ou prenoms.loc[:, "annais"] (pour avoir toute la colonne annais (année de naissance)).
+8. Exécutez-ce programme et vérifiez qu'il donne la valeur attendue.<br>
+9. Modifiez le programme précédent pour qu'il affiche uniquement un des prénoms du tableau. Recopiez sur votre compte-rendu la ligne de votre programme `recherche = prenoms.loc[???????].<br>
+10. Il est aussi possible d'afficher toute une ligne ou toute une colonne, en utilisant la syntaxe prenoms.loc[3676679, :] (pour avoir toute la ligne numéro 3676679), ou prenoms.loc[:, "annais"] (pour avoir toute la colonne annais (année de naissance)).<br>
 
 Modifiez votre programme pour qu'il affiche la colonne des prénoms. Recopiez l'ensemble de votre programme sur le compte-rendu.
 
