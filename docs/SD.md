@@ -128,8 +128,10 @@ import pandas<br>
 prenoms = pandas.read_csv("dpt2021.csv", sep=";")<br>
 print(prenoms)<br>
 6. Executer le programme : <br>
-  - Si vous voyez afficher un tableau, le programme s'est exécuté sans erreur : passez à la question suivante.<br>
- - Si une erreur apparaît, essayez de la comprendre et de la corriger. Vérifier que le programme carnet et dpt2021.csv sont dans le même répertoire, vérifier que l'orthographe du fichier dpt2021.csv est correcte.<br>
+
+
+  * Si vous voyez afficher un tableau, le programme s'est exécuté sans erreur : passez à la question suivante.<br>
+  * Si une erreur apparaît, essayez de la comprendre et de la corriger. Vérifier que le programme carnet et dpt2021.csv sont dans le même répertoire, vérifier que l'orthographe du fichier dpt2021.csv est correcte.<br>
 
 **Explication du tableau** 
 
@@ -185,9 +187,7 @@ la ligne recherche = prenoms.loc[(prenoms['dpt'] == "38") & (prenoms['annais'] =
 peut être remplacée par 
 recherche = prenoms.loc[(prenoms['dpt'] == "38") :]<br>
 recherche = recherche.loc[(prenoms['annais'] == "2019"):]<br>
-
-etc.
-
+etc.<br>
 5. Répondre à cette question en lisant le résultat du programme de la question précédente. Ignorer les prénoms rares.
 
     a. En 2019, en Isère, quel a été le prénom le plus donné ?
@@ -203,5 +203,3 @@ etc.
     b. Durant votre année de naissance, dans votre département, quels ont été les prénoms les plus donnés aux filles et aux garçons ?
 
     c. Durant votre année de naissance, dans votre département, combien d'enfants ont été nommés avec le même prénom que vous ?
-
-
