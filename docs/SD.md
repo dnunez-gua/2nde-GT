@@ -181,10 +181,11 @@ print(tri)
 Dans cet exemple, les résultats sont triés par le nombre d'enfants portant ces prénoms.
 
 Dans le cas de recherches plus complexes, on peut découper le travail en faisant des recherches successives : 
-la ligne recherche = prenoms.loc[(prenoms['dpt'] == "38") & (prenoms['annais'] == "2019"), :]<br>
-peut être remplacée par 
-recherche = prenoms.loc[(prenoms['dpt'] == "38") :]<br>
-recherche = recherche.loc[(recherche['annais'] == "2021"):]<br>
+la ligne<br>
+recherche = prenoms.loc[(prenoms['dpt'] == "38") & (prenoms['annais'] == "2019"), :]<br>
+peut être remplacée par <br>
+recherche = prenoms.loc[(prenoms['dpt'] == "38"), :]<br>
+recherche = recherche.loc[(recherche['annais'] == "2021"),:]<br>
 etc. 
 
 5. Répondre à cette question en lisant le résultat du programme de la question précédente. Ignorer les prénoms rares.
