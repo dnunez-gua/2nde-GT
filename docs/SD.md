@@ -78,12 +78,17 @@ Donner quelques descripteurs pouvant vous concerner, ainsi que les valeurs corre
 4. Téléchargez et ouvrir le fichier *Films ayant réalisé plus d'un million d'entrées* au format .xlsx.
 
 5. Noter vos réponses dans Word:
+    
     a.  Quel est le film ayant fait le plus d'entrées en 2021 ?
+    
     b. Quel est le film français ayant fait le plus d'entrées en 2018 ?
+    
     c. Quelle est la nationalité du film ayant fait le plus d'entrées en 2010 ? 
 
 6. Dans l'onglet *2021*, sélectionner la ligne 7, aller dans le menu *Données* et cliquer sur *Filtre*. 
+    
     a. Filtrer par nationalité, décocher tout sauf *FR* puis valider. 
+    
     b. Quels sont les trois films français ayant fait le plus d'entrée en 2021 ?
 
 7.  On souhaite connaître le nombre de films français de cette liste. 
