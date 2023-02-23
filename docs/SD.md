@@ -104,3 +104,15 @@ Donner quelques descripteurs pouvant vous concerner, ainsi que les valeurs corre
 12. On veut connaître, parmi les films des États-Unis sortis en 2021, quels sont les trois films ayant réalisé le plus d'entrée.
 Décrire sur votre compte-rendu votre démarche pour répondre à cette question : Quels filtres appliqués ? Quels tris ?
 Répondre à la question.
+
+13. Exporter votre fichier Word en pdf et envoyer dans Devoir > 2GTx-Tableur
+
+## csv et python
+
+
+1. Creer un document Word, enregristrer-le dans votre dossier OneDrive/SNT sous le nom csv-python-NOM-prenom
+2. Que signifie les initiales du format csv, donner la signification en anglais et une traduction en français. 
+3. Telecharger le document [Informaticiens] (./SD/informaticiens.csv) et enregristrer-le dans votre OneDrive. 
+4. Quel est le descripteur de ce fichier ? 
+5. Quel est le symbole 
+6. 
