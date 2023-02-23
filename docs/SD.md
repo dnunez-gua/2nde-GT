@@ -107,12 +107,58 @@ Répondre à la question.
 
 13. Exporter votre fichier Word en pdf et envoyer dans Devoir > 2GTx-Tableur
 
-## csv et python
-
+## format .csv
 
 1. Creer un document Word, enregristrer-le dans votre dossier OneDrive/SNT sous le nom csv-python-NOM-prenom
 2. Que signifie les initiales du format csv, donner la signification en anglais et une traduction en français. 
 3. Telecharger le document [Informaticiens](./SD/informaticiens.csv) et enregristrer-le dans votre OneDrive. 
 4. Quel est le descripteur de ce fichier ? 
-5. Quel est le symbole 
-6. 
+5. Quel est le symbole utilisé comme séparateur ? 
+6. En quelle année est né Ada Lovelace ? 
+7. Quel est le prénom de Mme Hamilton ?
+8. Qui, parmi les personnes listées dans le fichier, est né plus tard ? 
+
+## csv et python
+1. Aller sur [cette page](https://www.insee.fr/fr/statistiques/2540004?sommaire=4767262)
+2. Telecharger le *Fichiers par départements de naissance* au format csv 
+3. Le decompresser et placer le fichier dpt2021.csv dans votre Ipad, dans votre dossier Carnet (pas dans OneDrive et ne surtout pas l'ouvrir)
+4. Ouvrir un fichier Carnets (dans le meme dossier que dpt2021, les 2 fichiers doivent communiquer). 
+5. Taper les lignes suivantes
+
+import pandas
+prenoms = pandas.read_csv("dpt2021.csv", sep=";")
+print(prenoms)
+6. Executer le programme : 
+ 
+ - Si vous voyez afficher un tableau, le programme s'est exécuté sans erreur : passez à la question suivante.
+
+ - Si une erreur apparaît, essayez de la comprendre et de la corriger. Vérifier que le programme carnet et dpt2021.csv sont dans le mêmme répertoire.
+
+**Explication du tableau** 
+La première ligne correspond aux descripteurs du fichier :
+
+**sexe** : sexe du prénom (1 pour un garçon ; 2 pour une fille) ;
+
+**preusuel** : prénom ;
+
+**annais** : année de naissance (attention : il s'agit de l'année de naissance, et non pas du prénom Anaïs) ;
+
+**dpt** : département de naissance ;
+
+**nombre** : nombre d'enfants portant ce prénom.
+
+Certaines valeurs (pour les années et les départements) sont égales à XXXX. Cela correspond sans doute à des données incorrectes ou inconnues.
+
+Chaque ligne suivante correspond à une données différente. Par exemple, l'antépénultième ligne (avant-avant dernière ligne, numéro 3676679) signifie : *En 2013, dans le département de Seine-Saint-Denis (93), trois filles sont nées avec le prénom Zyna.*
+
+Complétez la phrase suivante avec les données d'une des lignes que vous voyez affichées *En ????, dans le département ???? (??), ??? ????? sont nés/nées avec le prénom ????.*
+
+Il est possible d'afficher une cellule du tableau en particulier. Par exemple, le programme suivant donne l'année de naissance de la ligne numéro 3784668.
+
+import pandas
+prenoms = pandas.read_csv("dpt2021.csv", sep=";")
+recherche = prenoms.loc[3784668, "annais"]
+print(recherche)
+
+
+Exécutez-ce programme et vérifiez qu'il donne la valeur attendue.
