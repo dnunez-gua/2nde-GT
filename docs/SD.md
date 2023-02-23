@@ -187,7 +187,8 @@ la ligne recherche = prenoms.loc[(prenoms['dpt'] == "38") & (prenoms['annais'] =
 peut être remplacée par 
 recherche = prenoms.loc[(prenoms['dpt'] == "38") :]<br>
 recherche = recherche.loc[(prenoms['annais'] == "2019"):]<br>
-etc.<br>
+etc.
+
 5. Répondre à cette question en lisant le résultat du programme de la question précédente. Ignorer les prénoms rares.
 
     a. En 2019, en Isère, quel a été le prénom le plus donné ?
