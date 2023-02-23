@@ -133,7 +133,7 @@ print(prenoms)<br>
  
  - Si vous voyez afficher un tableau, le programme s'est exécuté sans erreur : passez à la question suivante.
 
- - Si une erreur apparaît, essayez de la comprendre et de la corriger. Vérifier que le programme carnet et dpt2021.csv sont dans le mêmme répertoire.
+ - Si une erreur apparaît, essayez de la comprendre et de la corriger. Vérifier que le programme carnet et dpt2021.csv sont dans le même répertoire, vérifier que l'orthographe du fichier dpt2021.csv est correcte.
 
 **Explication du tableau** 
 
@@ -182,13 +182,10 @@ Vérifiez que ne sont affichés que les prénoms donnés dans le département de
 
 2. Dans le programme précédent, remplacez la troisième ligne (recherche = prenoms.loc…) par :
 recherche = prenoms.loc[(prenoms['annais'] == "2021"), :]
-
 Exécutez le programme, et vérifiez que ne sont affichés que les prénoms donnés l'année 2021.
 
 3. Il est possible de combiner les conditions. Remplacez encore la troisième ligne (recherche = …) par :
-
 recherche = prenoms.loc[(prenoms['dpt'] == "38") & (prenoms['annais'] == "2021"), :]
-
 Exécutez-le, et vérifiez que ne sont affichés que les prénoms donnés en Isère (38), l'année 2021 (remarquez le symbole & situé entre les deux conditions).
 
 4. Il est possible aussi de trier les résultats. Ajoutons cela à la dernère recherche :
