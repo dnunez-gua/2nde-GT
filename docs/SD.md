@@ -125,9 +125,10 @@ Répondre à la question.
 4. Ouvrir un fichier Carnets (dans le meme dossier que dpt2021, les 2 fichiers doivent communiquer). 
 5. Taper les lignes suivantes
 
-import pandas
-prenoms = pandas.read_csv("dpt2021.csv", sep=";")
-print(prenoms)
+import pandas<br>
+prenoms = pandas.read_csv("dpt2021.csv", sep=";")<br>
+print(prenoms)<br>
+
 6. Executer le programme : 
  
  - Si vous voyez afficher un tableau, le programme s'est exécuté sans erreur : passez à la question suivante.
@@ -155,10 +156,10 @@ Complétez la phrase suivante avec les données d'une des lignes que vous voyez 
 
 Il est possible d'afficher une cellule du tableau en particulier. Par exemple, le programme suivant donne l'année de naissance de la ligne numéro 3784668.
 
-import pandas
-prenoms = pandas.read_csv("dpt2021.csv", sep=";")
-recherche = prenoms.loc[3784668, "annais"]
-print(recherche)
+import pandas<br>
+prenoms = pandas.read_csv("dpt2021.csv", sep=";")<br>
+recherche = prenoms.loc[3784668, "annais"]<br>
+print(recherche)<br>
 
 
 Exécutez-ce programme et vérifiez qu'il donne la valeur attendue.
