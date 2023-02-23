@@ -127,10 +127,9 @@ Répondre à la question.
 import pandas<br>
 prenoms = pandas.read_csv("dpt2021.csv", sep=";")<br>
 print(prenoms)<br>
-6. Executer le programme : 
-
- * Si vous voyez afficher un tableau, le programme s'est exécuté sans erreur : passez à la question suivante.
- * Si une erreur apparaît, essayez de la comprendre et de la corriger. Vérifier que le programme carnet et dpt2021.csv sont dans le même répertoire, vérifier que l'orthographe du fichier dpt2021.csv est correcte.
+6. Executer le programme : <br>
+Si vous voyez afficher un tableau, le programme s'est exécuté sans erreur : passez à la question suivante.<br>
+Si une erreur apparaît, essayez de la comprendre et de la corriger. Vérifier que le programme carnet et dpt2021.csv sont dans le même répertoire, vérifier que l'orthographe du fichier dpt2021.csv est correcte.
 
 **Explication du tableau** 
 
