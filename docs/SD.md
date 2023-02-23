@@ -173,7 +173,7 @@ Modifiez votre programme pour qu'il affiche la colonne des prénoms. Recopiez l'
 
 ### Recherche dans la base de données. 
 
-1. Recopier le programme suivant dans Thonny, et exécutez-le.<br>
+1. Recopier le programme suivant dans Carnets, et exécutez-le.<br>
 import pandas<br>
 prenoms = pandas.read_csv("dpt2021.csv", sep=";")<br>
 recherche = prenoms.loc[(prenoms['dpt'] == "38"), :]<br>
