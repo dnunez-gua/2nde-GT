@@ -213,14 +213,18 @@ etc.
 
 5. Répondre à cette question en lisant le résultat du programme de la question précédente. Ignorer les prénoms rares.
 
-a. En 2019, en Isère, quel a été le prénom le plus donné ?
-b. En 2019, en Isère, quel a été le prénom de filles le plus donné ?
-c.  En 2019, en Isère, combien de garçons ont été prénommés Gabriel ?
+    a. En 2019, en Isère, quel a été le prénom le plus donné ?
+
+    b. En 2019, en Isère, quel a été le prénom de filles le plus donné ?
+
+    c.  En 2019, en Isère, combien de garçons ont été prénommés Gabriel ?
 
 6. Répondre à cette question en modifiant le programme qui est actuellement ouvert dans Thonny.
 
-a. En quelle année êtes-vous né·e ? Dans quel département ?
-b. Durant votre année de naissance, dans votre département, quels ont été les prénoms les plus donnés aux filles et aux garçons ?
-c. Durant votre année de naissance, dans votre département, combien d'enfants ont été nommés avec le même prénom que vous ?
+    a. En quelle année êtes-vous né·e ? Dans quel département ?
+
+    b. Durant votre année de naissance, dans votre département, quels ont été les prénoms les plus donnés aux filles et aux garçons ?
+
+    c. Durant votre année de naissance, dans votre département, combien d'enfants ont été nommés avec le même prénom que vous ?
 
 
