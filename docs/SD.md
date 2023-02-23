@@ -42,6 +42,8 @@ ISBN 978-2-9539187-9-3 (br.) : 25 EUR
 EAN 9782953918793
  * Notice n° : FRBNF43580627 <br>
 
+**Questions**
+
 1. Quelles sont les données permettant d'identifier précisement le livre ?
 2. Quelles données sont plutôt destinées à des personnes ? Quelles données sont plutôt destinées à des ordinateurs ? 
 3. Quelles sont les types de données ? Donner la nature et un exemple. 
