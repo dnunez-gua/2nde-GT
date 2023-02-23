@@ -196,7 +196,7 @@ etc.<br>
 
     c.  En 2019, en Isère, combien de garçons ont été prénommés Gabriel ?
 
-6. Répondre à cette question en modifiant le programme qui est actuellement ouvert dans Thonny.
+6. Répondre à cette question en modifiant le programme qui est actuellement ouvert dans Carnets.
 
     a. En quelle année êtes-vous né·e ? Dans quel département ?
 
