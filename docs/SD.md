@@ -136,6 +136,7 @@ print(prenoms)<br>
  - Si une erreur apparaît, essayez de la comprendre et de la corriger. Vérifier que le programme carnet et dpt2021.csv sont dans le mêmme répertoire.
 
 **Explication du tableau** 
+
 La première ligne correspond aux descripteurs du fichier :
 
 **sexe** : sexe du prénom (1 pour un garçon ; 2 pour une fille) ;
@@ -150,7 +151,7 @@ La première ligne correspond aux descripteurs du fichier :
 
 Certaines valeurs (pour les années et les départements) sont égales à XXXX. Cela correspond sans doute à des données incorrectes ou inconnues.
 
-Chaque ligne suivante correspond à une données différente. Par exemple, l'antépénultième ligne (avant-avant dernière ligne, numéro 3676679) signifie : *En 2013, dans le département de Seine-Saint-Denis (93), trois filles sont nées avec le prénom Zyna.*
+Chaque ligne suivante correspond à une données différente. Par exemple, l'antépénultième ligne (avant-avant dernière ligne, numéro 3784670) signifie : *En 2013, dans le département de Seine-Saint-Denis (93), trois filles sont nées avec le prénom Zyna.*
 
 7. Complétez la phrase suivante avec les données d'une des lignes que vous voyez affichées *En ????, dans le département ???? (??), ??? ????? sont nés/nées avec le prénom ????.*
 
@@ -172,7 +173,7 @@ Modifiez votre programme pour qu'il affiche la colonne des prénoms. Recopiez l'
 
 ### Recherche dans la base de données. 
 
-1.Recopier le programme suivant dans Thonny, et exécutez-le.<br>
+1. Recopier le programme suivant dans Thonny, et exécutez-le.<br>
 import pandas<br>
 prenoms = pandas.read_csv("dpt2021.csv", sep=";")<br>
 recherche = prenoms.loc[(prenoms['dpt'] == "38"), :]<br>
