@@ -119,87 +119,12 @@ Répondre à la question.
 8. Qui, parmi les personnes listées dans le fichier, est né plus tard ? 
 
 ## csv et python
-1. Aller sur [cette page](https://www.insee.fr/fr/statistiques/2540004?sommaire=4767262)
-2. Telecharger le *Fichiers par départements de naissance* au format csv 
-3. Le decompresser et placer le fichier dpt2021.csv dans votre Ipad, dans votre dossier Carnet (pas dans OneDrive et ne surtout pas l'ouvrir)
-4. Ouvrir un fichier Carnets (dans le meme dossier que dpt2021, les 2 fichiers doivent communiquer). 
-5. Taper les lignes suivantes :<br>
-import pandas<br>
-prenoms = pandas.read_csv("dpt2021.csv", sep=";")<br>
-print(prenoms)<br>
-6. Executer le programme : <br>
-Si vous voyez afficher un tableau, le programme s'est exécuté sans erreur : passez à la question suivante.<br>
-Si une erreur apparaît, essayez de la comprendre et de la corriger. Vérifier que le programme carnet et dpt2021.csv sont dans le même répertoire, vérifier que l'orthographe du fichier dpt2021.csv est correcte.
 
-**Explication du tableau** 
+aller sur [le site](https://www.insee.fr/fr/statistiques/2540004?sommaire=4767262),téléchargez *Fichiers par départements de naissance* au format csv.
+Ouvrez le fichier .zip ainsi obtenu, et extrayez le fichier dpt2021.csv, que vous enregistrez dans votre Ipad, avec les carnets (ni onedrive, ni Icloud).
+Ne pas ouvrir le fichier qui est très lourd, il faut juste le déposer dans Carnets de votre Ipad.
 
-La première ligne correspond aux descripteurs du fichier :<br>
-**sexe** : sexe du prénom (1 pour un garçon ; 2 pour une fille) ;<br>
-**preusuel** : prénom ;<br>
-**annais** : année de naissance (attention : il s'agit de l'année de naissance, et non pas du prénom Anaïs) ;<br>
-**dpt** : département de naissance ;<br>
-**nombre** : nombre d'enfants portant ce prénom.<br>
-Certaines valeurs (pour les années et les départements) sont égales à XXXX. Cela correspond sans doute à des données incorrectes ou inconnues.<br>
-Chaque ligne suivante correspond à une données différente. Par exemple, l'antépénultième ligne (avant-avant dernière ligne, numéro 3784670) signifie : *En 2013, dans le département de Seine-Saint-Denis (93), trois filles sont nées avec le prénom Zyna.*<br>
-7. Complétez la phrase suivante avec les données d'une des lignes que vous voyez affichées *En ????, dans le département ???? (??), ??? ????? sont nés/nées avec le prénom ????.*<br>
-Il est possible d'afficher une cellule du tableau en particulier. Par exemple, le programme suivant donne l'année de naissance de la ligne numéro 3784668.<br>
-import pandas<br>
-prenoms = pandas.read_csv("dpt2021.csv", sep=";")<br>
-recherche = prenoms.loc[3784668, "annais"]<br>
-print(recherche)<br>
-8. Exécutez-ce programme et vérifiez qu'il donne la valeur attendue.<br>
-9. Modifiez le programme précédent pour qu'il affiche uniquement un des prénoms du tableau. Recopiez sur votre compte-rendu la ligne de votre programme `recherche = prenoms.loc[???????].<br>
-10. Il est aussi possible d'afficher toute une ligne ou toute une colonne, en utilisant la syntaxe prenoms.loc[3676679, :] (pour avoir toute la ligne numéro 3676679), ou prenoms.loc[:, "annais"] (pour avoir toute la colonne annais (année de naissance)).<br>
+Telecharger [pandas.nbbloc](./SD/Python-csv.ipynb), **ENREGISTER CE FICHIER SUR VOTRE IPAD (DANS CARNETS, MEME DOSSIER QUE dpt2021.csv**, suivre les consignes. Ce fichier sera à rendre sur TEAMS/Devoir 
 
-Modifiez votre programme pour qu'il affiche la colonne des prénoms. Recopiez l'ensemble de votre programme sur le compte-rendu.
 
-### Recherche dans la base de données. 
 
-1. Recopier le programme suivant dans Carnets, et exécutez-le.<br>
-import pandas<br>
-prenoms = pandas.read_csv("dpt2021.csv", sep=";")<br>
-recherche = prenoms.loc[(prenoms['dpt'] == "38"), :]<br>
-print(recherche)<br>
-Vérifiez que ne sont affichés que les prénoms donnés dans le département de l'Isère (38).
-
-2. Dans le programme précédent, remplacez la troisième ligne (recherche = prenoms.loc…) par :
-recherche = prenoms.loc[(prenoms['annais'] == "2021"), :]
-Exécutez le programme, et vérifiez que ne sont affichés que les prénoms donnés l'année 2021.
-
-3. Il est possible de combiner les conditions. Remplacez encore la troisième ligne (recherche = …) par :
-recherche = prenoms.loc[(prenoms['dpt'] == "38") & (prenoms['annais'] == "2021"), :]
-Exécutez-le, et vérifiez que ne sont affichés que les prénoms donnés en Isère (38), l'année 2021 (remarquez le symbole & situé entre les deux conditions).
-
-4. Il est possible aussi de trier les résultats. Ajoutons cela à la dernère recherche :
-
-import pandas<br>
-prenoms = pandas.read_csv("dpt2021.csv", sep=";")<br>
-recherche = prenoms.loc[(prenoms['dpt'] == "38") & (prenoms['annais'] == "2019"), :]<br>
-tri = recherche.sort_values(by="nombre")<br>
-print(tri)
-
-Dans cet exemple, les résultats sont triés par le nombre d'enfants portant ces prénoms.
-
-Dans le cas de recherches plus complexes, on peut découper le travail en faisant des recherches successives : 
-la ligne<br>
-recherche = prenoms.loc[(prenoms['dpt'] == "38") & (prenoms['annais'] == "2019"), :]<br>
-peut être remplacée par <br>
-recherche = prenoms.loc[(prenoms['dpt'] == "38"), :]<br>
-recherche = recherche.loc[(recherche['annais'] == "2021"),:]<br>
-etc. 
-
-5. Répondre à cette question en lisant le résultat du programme de la question précédente. Ignorer les prénoms rares.
-
-    a. En 2019, en Isère, quel a été le prénom le plus donné ?
-
-    b. En 2019, en Isère, quel a été le prénom de filles le plus donné ?
-
-    c.  En 2019, en Isère, combien de garçons ont été prénommés Gabriel ?
-
-6. Répondre à cette question en modifiant le programme qui est actuellement ouvert dans Carnets.
-
-    a. En quelle année êtes-vous né·e ? Dans quel département ?
-
-    b. Durant votre année de naissance, dans votre département, quels ont été les prénoms les plus donnés aux filles et aux garçons ?
-
-    c. Durant votre année de naissance, dans votre département, combien d'enfants ont été nommés avec le même prénom que vous ?
