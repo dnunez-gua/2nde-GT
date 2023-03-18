@@ -69,15 +69,15 @@ Donner quelques descripteurs pouvant vous concerner, ainsi que les valeurs corre
 
 ## Données et tableur
 
-1.Créer un document Word - Enregristrer le dans votre OneDrive/SNT en le nommant SD-Tableur-NOM-Prénon
+1. Créer un document Word - Enregristrer le dans votre OneDrive/SNT en le nommant SD-Tableur-NOM-Prénon
 
 2. Sur internet, aller sur [data.gouv.fr](https://www.data.gouv.fr/fr/)
 
-3. Rechercherz *Films entres* dans le champ de recherche.
+3. Recherchez *Films entrées* dans le champ de recherche.
 
 4. Téléchargez et ouvrir le fichier *Films ayant réalisé plus d'un million d'entrées* au format .xlsx.
 
-5. Noter vos réponses dans Word:
+5. Notez vos réponses dans Word:
     
     a.  Quel est le film ayant fait le plus d'entrées en 2021 ?
     
@@ -87,15 +87,15 @@ Donner quelques descripteurs pouvant vous concerner, ainsi que les valeurs corre
 
 6. Dans l'onglet *2021*, sélectionner la ligne 7, aller dans le menu *Données* et cliquer sur *Filtre*. 
     
-    a. Filtrer par nationalité, décocher tout sauf *FR* puis valider. 
+    a. Filtrer par nationalité, cocher *FR* puis valider. 
     
     b. Quels sont les trois films français ayant fait le plus d'entrée en 2021 ?
 
 7.  On souhaite connaître le nombre de films français de cette liste. 
 
-8.  Dans la cellule B33, écrivez =SOUS.TOTAL(3;B8:B32) (cette fonction permet de calculer le nombre de cellules de la colonne E, mais seulement pour les cellules filtrés). La cellule devrait afficher 7, soit 7 films dans cette liste.
+8.  Dans une cellule vide colonne B, écrivez =SOUS.TOTAL(3;B8:B32) (cette fonction permet de calculer le nombre de cellules de la colonne E, mais seulement pour les cellules filtrés). La cellule devrait afficher 7, soit 7 films dans cette liste.
 
-9. On souhaite connaître le nombre d'entrée réalisées par les films français de cette liste. Dans la cellule E33, écrivez =SOUS.TOTAL(9;E8:E32) (cette fonction permet de calculer la somme de la colonne E, mais seulement pour les films filtrés). La cellule devrait afficher 12,40, soit 12,40 millions d'entrées.
+9. On souhaite connaître le nombre d'entrées réalisées par les films français de cette liste. Dans une cellule vide colonne E , écrivez =SOUS.TOTAL(9;E8:E32) (cette fonction permet de calculer la somme de la colonne E, mais seulement pour les films filtrés). La cellule devrait afficher 12,40, soit 12,40 millions d'entrées.
 
 10. Supprimez le filtre sur la nationalité (vous devez à nouveau voir toutes les nationalités), puis triez la colonne sortie par date.  Les trois premiers films affichés devraient être Adieu les Cons, Conjuring 3: The Devil Made Me Do It, Cruella.
 
@@ -109,7 +109,7 @@ Répondre à la question.
 
 ## format .csv
 
-1. Creer un document Word, enregristrer-le dans votre dossier OneDrive/SNT sous le nom csv-python-NOM-prenom
+1. Créer un document Word, enregristrer-le dans votre dossier OneDrive/SNT sous le nom csv-python-NOM-prenom
 2. Que signifie les initiales du format csv, donner la signification en anglais et une traduction en français. 
 3. Telecharger le document [Informaticiens](./SD/informaticiens.csv) et enregristrer-le dans votre OneDrive. 
 4. Quel est le descripteur de ce fichier ? 
