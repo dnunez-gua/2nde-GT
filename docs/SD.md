@@ -111,10 +111,10 @@ Répondre à la question.
 
 1. Créer un document Word, enregristrer-le dans votre dossier OneDrive/SNT sous le nom csv-python-NOM-prenom
 2. Que signifie les initiales du format csv, donner la signification en anglais et une traduction en français. 
-3. Telecharger le document [Informaticiens](./SD/informaticiens.csv) et enregristrer-le dans votre OneDrive. 
-4. Quel est le descripteur de ce fichier ? 
+3. Telecharger le document [Informaticiens](./SD/informaticiens.csv).
+4. Quels sont le descripteurs de ce fichier ? 
 5. Quel est le symbole utilisé comme séparateur ? 
-6. En quelle année est né Ada Lovelace ? 
+6. En quelle année est née Ada Lovelace ? 
 7. Quel est le prénom de Mme Hamilton ?
 8. Qui, parmi les personnes listées dans le fichier, est né plus tard ? 
 
@@ -124,7 +124,7 @@ aller sur [le site](https://www.insee.fr/fr/statistiques/2540004?sommaire=476726
 Ouvrez le fichier .zip ainsi obtenu, et extrayez le fichier dpt2021.csv, que vous enregistrez dans votre Ipad, avec les carnets (ni onedrive, ni Icloud).
 Ne pas ouvrir le fichier qui est très lourd, il faut juste le déposer dans Carnets de votre Ipad.
 
-Telecharger [pandas.nbbloc](./SD/Python-csv.ipynb), **ENREGISTER CE FICHIER SUR VOTRE IPAD (DANS CARNETS, MEME DOSSIER QUE dpt2021.csv**, suivre les consignes. Ce fichier sera à rendre sur TEAMS/Devoir 
+Télécharger [pandas.nbbloc](./SD/Python-csv.ipynb), **ENREGISTER CE FICHIER SUR VOTRE IPAD (DANS CARNETS, MEME DOSSIER QUE dpt2021.csv**, suivre les consignes. Ce fichier sera à rendre sur TEAMS/Devoir 
 
 
 
