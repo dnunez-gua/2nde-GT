@@ -127,4 +127,26 @@ Ne pas ouvrir le fichier qui est très lourd, il faut juste le déposer dans Car
 Télécharger [pandas.nbbloc](./SD/Python-csv.ipynb), **ENREGISTER CE FICHIER SUR VOTRE IPAD (DANS CARNETS, MEME DOSSIER QUE dpt2021.csv**, suivre les consignes. Ce fichier sera à rendre sur TEAMS/Devoir 
 
 
+## Les données personnelles - Paragraphe argumenté 
+
+Pour ou contre : 
+
+"Si je n'ai rien à me reprocher, je n'ai rien à cacher."
+
+
+### vidéo 
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5otaBKsz7k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+[documents](./SD/corpus.pdf)
+
+A l'aide d'un paragraphe argumenté, vous exposerez ce qu'est une donnée, qu'est ce qu'une donnée personnelle, comment elle est stockée. Après avoir pris position sur la question pour ou contre, vous exposerez votre avis argumenté. 
+Toute recherche réfléchie sur internet ou au CDI est bienvenue. 
+
+
+
+
+
 
