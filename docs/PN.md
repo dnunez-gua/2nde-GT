@@ -23,7 +23,7 @@ Combien de couleurs différentes est-il possible d’obtenir avec ce système RV
 
 ### Ex 2
 
-Sur le site http://www.proftnj.com/RGB3.htm, faites varier les canaux rouge, vert et bleu (à l'aide des boutons + et des boutons -) afin d'obtenir différentes couleurs.
+Sur [le site](http://www.proftnj.com/RGB3.htm), faites varier les canaux rouge, vert et bleu (à l'aide des boutons + et des boutons -) afin d'obtenir différentes couleurs.
 
 - Comment obtenir du rouge ?
 
