@@ -29,6 +29,10 @@
 ## Thème 3 : Les Structures de données
 [Structures Données](./SD.md)
 
+## Thème 4 : La photographie numérique
+[La photographie numérique](./PN.md)
+
+
 
 ## Fil Rouge 1 : Internet
 Ce thème est présent dans beaucoup de sujet que nous verrons cette année. Donc, au lieu de le traiter comme les autres thèmes, nous l'aborderons plus dans un esprit pratique, notamment dans le Web, les Réseaux Sociaux et les Structures de données. 
