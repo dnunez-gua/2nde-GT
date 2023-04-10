@@ -16,6 +16,7 @@ Quand on observe un pixel "à la loupe", on peut constater que le pixel est bien
 
 Cela est dû à une limitation de notre oeil : son pouvoir séparateur !
 Un pixel est tellement petit que notre oeil superposera la partie rouge, la partie verte et la partie bleue du pixel, voilà pourquoi nous voyons des pixels de différentes couleurs.
+
 ---
 ### Ex 1
 
@@ -37,3 +38,25 @@ Sur [le site](http://www.proftnj.com/RGB3.htm), faites varier les canaux rouge, 
 - Que se passe-t-il quand les trois canaux ont la même valeur (par exemple 125,125,125) ?
 
 ---
+
+La taille est une autre caractéristique d'une image, elle correspond à la taille de l'image en cm ou en pouce (inch en anglais), toujours en utilisant la largeur et la longueur de l'image. Le papier photo vendu dans le commerce que l'on trouve le plus couramment fait 15 cm en largeur et 10 cm en hauteur. En cas d'impression sur ce papier, on obtiendra des photos de taille 15x10.
+
+En combinant la taille et la définition d'une image, l'on obtient la résolution de cette image. La résolution d'une image est définie par le nombre de pixels par unité de longueur : nombre de pixels par cm ou plus couramment nombre de pixels par pouce (ppp ou dpi).
+
+---
+
+### Ex 3
+Soit une image de définition 800x533 que l'on imprime sur du papier photo de taille 15x10 (en cm), calculez la résolution de cette image en ppp (rappel 1 pouce = 2,54 cm).
+
+---
+
+### Ex 4
+Sachant que l'on estime que pour avoir une impression de qualité il faut atteindre une résolution de 300 ppp, calculez la définition minimale d'une image dans le cas d'une impression sur du papier photo 15 x 10.
+
+---
+
+### Ex 5
+L'écran d'un smartphone a une résolution de 458 ppp, il affiche des images de définition 2436 x 1125. Calculez la taille de cet écran (largeur, hauteur) en cm.
+
+---
+
