@@ -16,11 +16,12 @@ Quand on observe un pixel "à la loupe", on peut constater que le pixel est bien
 
 Cela est dû à une limitation de notre oeil : son pouvoir séparateur !
 Un pixel est tellement petit que notre oeil superposera la partie rouge, la partie verte et la partie bleue du pixel, voilà pourquoi nous voyons des pixels de différentes couleurs.
-
+---
 ### Ex 1
 
 Combien de couleurs différentes est-il possible d’obtenir avec ce système RVB ?
 
+---
 ### Ex 2
 
 Sur [le site](http://www.proftnj.com/RGB3.htm), faites varier les canaux rouge, vert et bleu (à l'aide des boutons + et des boutons -) afin d'obtenir différentes couleurs.
@@ -34,3 +35,5 @@ Sur [le site](http://www.proftnj.com/RGB3.htm), faites varier les canaux rouge, 
 - Comment obtenir du jaune ?
 
 - Que se passe-t-il quand les trois canaux ont la même valeur (par exemple 125,125,125) ?
+
+---
