@@ -87,6 +87,10 @@ La réponse est simple : des photosites du capteur photo. L'association de 4 pho
 
 Comme vous pouvez le constater sur le schéma ci-dessus, l'information produite par un photosite pourra être utilisée pour "construire" 2 pixels se trouvant l'un à côté de l'autre dans l'image finale.
 
-## Ex 6
+### Ex 6
 Rédigez un résumé de quelques lignes qui explique le fonctionnement du capteur d'un appareil photo numérique.
+
+## Le traitement de l'image
+
+Cliquer sur [NBBlock](./PN/Python-photo.ipynb "Python-Photo")
 
