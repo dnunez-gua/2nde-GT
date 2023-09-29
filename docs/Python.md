@@ -2,11 +2,45 @@
 ## Variables et affectations
 
 Une variable est une zone de la mémoire de l'ordinateur dans laquelle une valeur est stockée.  
-Aux yeux du programmeur, cette variable est définie par un nom, alors que pour l'ordinateur, il s'agit en fait d'une adresse, c'est-à-dire d'une zone particulière de la mémoire.  
 En Python, la déclaration d'une variable et son initialisation (c'est-à-dire la première valeur que l'on va stocker dedans) se font en même temps.  
-Pour vous en convaincre, testez les instructions suivantes après avoir lancé l'interpréteur :  
 
 ``` python
-x=2
-print(x)
+departement =29
+print(departement)
 ```
+Ligne 1. Dans cet exemple, nous avons déclaré, puis initialisé la variable departement à la valeur 29
+Ligne 2. Nous avons demandé l'affichage de la valeur de departement.  
+
+Le programme aurait donné un autre résultat s'il avait été :  
+``` python
+departement =29
+print('departement')
+```
+
+# Opérations sur les variables 
+
+``` python
+a=5
+b=8
+somme = a+b
+produit = a*b
+print("la somme de ",a," et ",b," est ", somme)
+print("le produit de ",a," par ",b," est ", produit)
+```
+
+## input 
+
+l'insctruction input permet de demander à l'utilisateur d'entrer une valeur qui sera stockée dans une variable
+
+``` python
+nom=input("Quel est ton nom ?")
+print("Bonjour ",nom) 
+```
+
+!!! note "Remarque"  
+    Pour obtenir des résultats d'opérations sur des variables, il faut convertir la chaine de caractère entrée par l'utilisateur par des entiers ou des réels  
+    ``` python
+    a=int(input("Donner un premier nombre"))
+    b=int(input("Donner un deuxième nombre"))
+    print("la somme de ",a," et ",b," est ", a+b)
+     ```
