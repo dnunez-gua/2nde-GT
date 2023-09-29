@@ -30,7 +30,7 @@ print("le produit de ",a," par ",b," est ", produit)
 
 ## input 
 
-l'insctruction input permet de demander à l'utilisateur d'entrer une valeur qui sera stockée dans une variable
+l'instruction input permet de demander à l'utilisateur d'entrer une valeur qui sera stockée dans une variable
 
 ``` python
 nom=input("Quel est ton nom ?")
