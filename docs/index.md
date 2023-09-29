@@ -39,5 +39,6 @@ Ce thème est présent dans beaucoup de sujet que nous verrons cette année. Don
 
 
 ## Fil Rouge 2 : Python
+[NBBloc](./Python/)
 [NBBloc](https://dnunez-gua.github.io/NBloc/)
 
