@@ -16,7 +16,7 @@ Le programme aurait donné un autre résultat s'il avait été :
 departement =29
 print('departement')
 ```
-
+ 
 # Opérations sur les variables 
 
 ``` python
