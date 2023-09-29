@@ -39,8 +39,9 @@ print("Bonjour ",nom)
 
 !!! note "Remarque"  
     Pour obtenir des résultats d'opérations sur des variables, il faut convertir la chaine de caractère entrée par l'utilisateur par des entiers ou des réels  
+    
     ``` python
     a=int(input("Donner un premier nombre"))
     b=int(input("Donner un deuxième nombre"))
     print("la somme de ",a," et ",b," est ", a+b)
-     ```
+    ```
