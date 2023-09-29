@@ -41,7 +41,12 @@ print("Bonjour ",nom)
     Pour obtenir des résultats d'opérations sur des variables, il faut convertir la chaine de caractère entrée par l'utilisateur par des entiers ou des réels  
     
     ``` python
+    from math import *
     a=int(input("Donner un premier nombre"))
     b=int(input("Donner un deuxième nombre"))
+    c=float(input("Donner un nombre réel"))
     print("la somme de ",a," et ",b," est ", a+b)
+    print("La racine carrée de ",c, " est ",sqrt(c)) 
     ```
+
+    
