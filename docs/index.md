@@ -39,6 +39,6 @@ Ce thème est présent dans beaucoup de sujet que nous verrons cette année. Don
 
 
 ## Fil Rouge 2 : Python
-[Cours Python](./Python.md/)
+[Cours Python](./Python.md/)  
 [NBBloc](https://dnunez-gua.github.io/NBloc/)
 
