@@ -101,14 +101,25 @@ Le binaire, c'est le système de comptage des ordinateurs. Pourquoi le binaire e
 signal électrique : 1, y'a du courant, 0, y'en a pas (c'est la version simple).
 
 ### Conversion décimal en binaire
-$185 \div 2=92+1$  
-$92\div 2= 46+0$  
-$46 \div 2= 23 +0$  
-$23\div 2 =11+1$  
-$11 \div 2 =5+1$  
-$5\div 2=2 +1 $  
-$2 \div 2=1+0$  
-$1\div 2=0+1$
+$185 \div 2 = 92 + 1$  
+$92 \div 2 = 46 + 0$  
+$46 \div 2 = 23 + 0$  
+$23 \div 2 = 11 + 1$  
+$11 \div 2 = 5 + 1$  
+$5 \div 2 = 2 + 1$  
+$2 \div 2 = 1 + 0$  
+$1 \div 2 = 0 + 1$
 
 On remonte les égalités en notant que les restes des divisions.  
 En binaire : 185 s'écrit 10111001
+
+#### Exercice 
+Convertir les nombres suivants :
+15  
+128  
+256  
+500  
+
+### Conversion binaire en décimal
+
+
