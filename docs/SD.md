@@ -114,11 +114,11 @@ On remonte les égalités en notant que les restes des divisions.
 En binaire : 185 s'écrit 10111001
 
 #### Exercice 
-Convertir les nombres suivants :
-15  
-128  
-256  
-500  
+Convertir les nombres suivants en binaire :
+* 15  
+* 128  
+* 256  
+* 500  
 
 ### Conversion binaire en décimal
 
@@ -126,3 +126,9 @@ Inversement, nous avons le nombre binaire 11010011 et nous voulons savoir à que
 Pour cela, on part de droite à gauche :  
 $$11010011=1\times 2^0+1\times 2^1+0\times 2^2+0\times 2^3+1\times 2^4+0\times 2^5+1\times 2^6+1\times 2^7=1\times 1+1\times 2+0\times 4+0\times 8+1\times 16+0\times 32+1\times 64+1\times 128= 211 $$
 
+#### Exercice 
+Convertir les nombres suivants en décimal:
+* 01010101  
+* 00001111  
+* 11001100  
+* 11111111  
