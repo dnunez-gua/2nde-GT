@@ -75,4 +75,9 @@ Donner quelques descripteurs pouvant vous concerner, ainsi que les valeurs corre
 - TP2 noté : code btdfq5g7
 - TP3 : code ajiaxsb3
 
- 
+### Formats fichiers
+
+![formats](./SD/data3.png)
+
+### PIX 
+Se connecter via Educonnect - ENT - PIX et entrer le code YDJDCP844
