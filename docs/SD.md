@@ -63,33 +63,36 @@ De plus, si une donnée concerne une personne, on dit que c'est une **donnée pe
 
 Exemple : ![ex](./SD/data1.png) 
 
-### Applications 
+## Applications 
 1. On considère le sac que vous emenez avec vous au lycée. La collection auquel il appartient est donc l'ensemble des articles vendus par le magasin où vous l'avez acheté. Donner quelques descripteurs pouvant s'appliquer à ce sac à dos, ainsi que les valeurs correspondantes.
 
 2. On considère les données vous concernant, dans la base de donnée d'Ecole Directe.
 Donner quelques descripteurs pouvant vous concerner, ainsi que les valeurs correspondantes.
 
-### TP Castor Informatique
+## TP Castor Informatique
 
 - TP1 noté : code btdfq5g7
 - TP2 noté : code btdfq5g7
 - TP3 : code ajiaxsb3
 
-### Formats fichiers
+## Formats fichiers
 
 ![formats](./SD/data3.png)
 
-### PIX 
+## PIX 
 Se connecter via Educonnect - ENT - PIX et entrer le code YDJDCP844
 
-### BINAIRE - d'après site de M. BENSUSSAN
-Un pirate a enterré un trésor sur une île déserte. Comme il sent ses derniers jours arriver,
-il confie à ses deux enfants (Alice et Bob) la carte ci-dessous ainsi qu’une suite de zéros
-et de uns énigmatique.
+## BINAIRE 
+### Système décimal 
 
-![carte](./SD/carte.png)  
+Pour que vous compreniez le fonctionnement du binaire, et des systèmes de comptage en général (plus communément appelés bases), Nous allons commencer par faire une petite réintroduction à la base 10 que vous connaissez tous.
+Vous penserez peut-être que la base 10 vient du fait qu'on a 10 doigts, mais en tout cas deux choses sont sûres :
+* Il y a 10 chiffres : 0, 1, 2, 3, 4, 5, 6, 7, 8, 9.
+*  Avec ces derniers, on peut compter jusqu'à 9.
+Et si l'on veut aller au délà de 9, il faut changer de rang.
+Cela signifie que si le rang des unités est plein, il faut passer à celui des dizaines, puis des centaines, milliers et j'en passe.
+Par exemple : à 19, le rang des unités est "saturé" (plein), car il contient le chiffre 9, et il n'y a pas (dans la base 10) de valeur plus élevée. Il faut donc incrémenter le rang périphérique puis réinitialiser l'état de celui des unités.
+De la même façon, on peut décomposer
+$$185 =1 \times 100 + 8 \times 10+5 \times 1= 1\times 10^2+8\times 10^1+5\times 10^0$$
 
-|------|-|-|-|-|-|-|-|-|-|-|--------|
-|Départ|0|0|1|0|0|0|1|1|0|0| Arrivée| 
-|------|-|-|-|-|-|-|-|-|-|-|--------|
 
