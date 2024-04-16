@@ -95,4 +95,20 @@ Par exemple : à 19, le rang des unités est "saturé" (plein), car il contient 
 De la même façon, on peut décomposer
 $$185 =1 \times 100 + 8 \times 10+5 \times 1= 1\times 10^2+8\times 10^1+5\times 10^0$$
 
+### Le binaire
 
+Le binaire, c'est le système de comptage des ordinateurs. Pourquoi le binaire et pas le décimal comme les humains ? Et bien c'est très simple : un ordinateur est composé de circuits électroniques, et donc de composants électriques. Le plus simple pour compter est donc d'utiliser un système en base 2 (le binaire) car on peut représenter ses deux valeurs possibles (0 et 1) par un
+signal électrique : 1, y'a du courant, 0, y'en a pas (c'est la version simple).
+
+### Conversion décimal en binaire
+$185 \div 2=92+1$  
+$92\div 2= 46+0$  
+$46 \div 2= 23 +0$  
+$ 23\div 2 =11+1$  
+$11 \div 2 =5+1$  
+$5\div 2=2 +1 $  
+$2 \div 2=1+0$  
+$1\div 2=0+1$
+
+On remonte les égalités en notant que les restes des divisions.  
+En binaire : 185 s'écrit 10111001
