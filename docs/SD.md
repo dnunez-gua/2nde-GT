@@ -88,6 +88,7 @@ il confie à ses deux enfants (Alice et Bob) la carte ci-dessous ainsi qu’une 
 et de uns énigmatique.
 
 ![carte](./SD/carte.png)
--------------------------------------
+|------|-|-|-|-|-|-|-|-|-|-|--------|
 |Départ|0|0|1|0|0|0|1|1|0|0| Arrivée| 
--------------------------------------
+|------|-|-|-|-|-|-|-|-|-|-|--------|
+
