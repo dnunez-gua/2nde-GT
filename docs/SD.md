@@ -104,7 +104,7 @@ signal électrique : 1, y'a du courant, 0, y'en a pas (c'est la version simple).
 $185 \div 2=92+1$  
 $92\div 2= 46+0$  
 $46 \div 2= 23 +0$  
-$ 23\div 2 =11+1$  
+$23\div 2 =11+1$  
 $11 \div 2 =5+1$  
 $5\div 2=2 +1 $  
 $2 \div 2=1+0$  
