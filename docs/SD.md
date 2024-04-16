@@ -122,4 +122,7 @@ Convertir les nombres suivants :
 
 ### Conversion binaire en décimal
 
+Inversement, nous avons le nombre binaire 11010011 et nous voulons savoir à quel nombre, en base 10, il correspond.
+Pour cela, on part de droite à gauche :  
+$$11010011=1\times 2^0+1\times 2^1+0\times 2^2+0\times 2^3+1\times 2^4+0\times 2^5+1\times 2^6+1\times 2^7=1\times 1+1\times 2+0mes 8+1\times 16+0\times 32+1\times 64+1\times 128= 211 $$
 
