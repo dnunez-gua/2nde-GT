@@ -87,7 +87,8 @@ Un pirate a enterré un trésor sur une île déserte. Comme il sent ses dernier
 il confie à ses deux enfants (Alice et Bob) la carte ci-dessous ainsi qu’une suite de zéros
 et de uns énigmatique.
 
-![carte](./SD/carte.png)
+![carte](./SD/carte.png)  
+
 |------|-|-|-|-|-|-|-|-|-|-|--------|
 |Départ|0|0|1|0|0|0|1|1|0|0| Arrivée| 
 |------|-|-|-|-|-|-|-|-|-|-|--------|
