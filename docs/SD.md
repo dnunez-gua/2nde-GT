@@ -86,19 +86,21 @@ Se connecter via Educonnect - ENT - PIX et entrer le code YDJDCP844
 ### Système décimal 
 
 Pour que vous compreniez le fonctionnement du binaire, et des systèmes de comptage en général (plus communément appelés bases), Nous allons commencer par faire une petite réintroduction à la base 10 que vous connaissez tous.
-Vous penserez peut-être que la base 10 vient du fait qu'on a 10 doigts, mais en tout cas deux choses sont sûres :
-* Il y a 10 chiffres : 0, 1, 2, 3, 4, 5, 6, 7, 8, 9.
-*  Avec ces derniers, on peut compter jusqu'à 9.
+Vous penserez peut-être que la base 10 vient du fait qu'on a 10 doigts, mais en tout cas deux choses sont sûres :  
+
+* Il y a 10 chiffres : 0, 1, 2, 3, 4, 5, 6, 7, 8, 9.  
+*  Avec ces derniers, on peut compter jusqu'à 9.  
 Et si l'on veut aller au délà de 9, il faut changer de rang.
-Cela signifie que si le rang des unités est plein, il faut passer à celui des dizaines, puis des centaines, milliers et j'en passe.
+Cela signifie que si le rang des unités est plein, il faut passer à celui des dizaines, puis des centaines, milliers et j'en passe.  
 Par exemple : à 19, le rang des unités est "saturé" (plein), car il contient le chiffre 9, et il n'y a pas (dans la base 10) de valeur plus élevée. Il faut donc incrémenter le rang périphérique puis réinitialiser l'état de celui des unités.
-De la même façon, on peut décomposer
+De la même façon, on peut décomposer. 
 $$185 =1 \times 100 + 8 \times 10+5 \times 1= 1\times 10^2+8\times 10^1+5\times 10^0$$
 
 ### Le binaire
 
-Le binaire, c'est le système de comptage des ordinateurs. Pourquoi le binaire et pas le décimal comme les humains ? Et bien c'est très simple : un ordinateur est composé de circuits électroniques, et donc de composants électriques. Le plus simple pour compter est donc d'utiliser un système en base 2 (le binaire) car on peut représenter ses deux valeurs possibles (0 et 1) par un
-signal électrique : 1, y'a du courant, 0, y'en a pas (c'est la version simple).
+Le binaire, c'est le système de comptage des ordinateurs. Pourquoi le binaire et pas le décimal comme les humains ?  
+Et bien c'est très simple : un ordinateur est composé de circuits électroniques, et donc de composants électriques. 
+Le plus simple pour compter est donc d'utiliser un système en base 2 (le binaire) car on peut représenter ses deux valeurs possibles (0 et 1) par unsignal électrique : 1, y'a du courant, 0, y'en a pas (c'est la version simple).
 
 ### Conversion décimal en binaire
 $185 \div 2 = 92 + 1$  
@@ -114,7 +116,7 @@ On remonte les égalités en notant que les restes des divisions.
 En binaire : 185 s'écrit 10111001
 
 #### Exercice 
-Convertir les nombres suivants en binaire :
+Convertir les nombres suivants en binaire :  
 * 15  
 * 128  
 * 256  
@@ -127,7 +129,8 @@ Pour cela, on part de droite à gauche :
 $$11010011=1\times 2^0+1\times 2^1+0\times 2^2+0\times 2^3+1\times 2^4+0\times 2^5+1\times 2^6+1\times 2^7=1\times 1+1\times 2+0\times 4+0\times 8+1\times 16+0\times 32+1\times 64+1\times 128= 211 $$
 
 #### Exercice 
-Convertir les nombres suivants en décimal:
+Convertir les nombres suivants en décimal:  
+
 * 01010101  
 * 00001111  
 * 11001100  
