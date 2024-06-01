@@ -32,6 +32,8 @@
 ## Thème 4 : La photographie numérique
 [La photographie numérique](./PN.md)
 
+## L'intelligence artificielle
+[Intelligence artificielle](./IA.md)
 
 
 ## Fil Rouge 1 : Internet
