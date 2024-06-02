@@ -9,4 +9,4 @@
 
 ## Entrainement IA
 
-Entrainer une IA grace au site [vittascience](https://fr.vittascience.com/)
+Entrainer une IA grace au site [vittascience]((https://fr.vittascience.com/classroom/login.php?p=login-choice))
