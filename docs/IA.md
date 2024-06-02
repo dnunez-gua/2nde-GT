@@ -10,4 +10,8 @@
 ## Entrainement IA
 
 Entrainer une IA grace au site [vittascience](https://fr.vittascience.com/classroom/login.php?p=login-choice)
-Entrer le code : ETS44 pour faire l'activité.
+Entrer le code : 
+<!---
+ETS44
+-->
+ pour faire l'activité.
