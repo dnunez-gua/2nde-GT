@@ -90,7 +90,7 @@ Une petite vidéo :
  - Donner les avantages et les inconvenients de ce type de réseau. 
  - Donner d'autres exemples de réseau, en les expliquant et donnant des applications. 
 
-![Serveurs](./Images/baie-serveur.jpg)<br>
+![Serveurs](../Images/baie-serveur.jpg)<br>
 
 ### Web Statique - Equipe 4
 
