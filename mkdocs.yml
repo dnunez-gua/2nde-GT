@@ -20,10 +20,8 @@ docs_dir: docs
 nav: 
     - La page d'accueil : index.md
     - Compétences Numériques : prerequis.md
-    - Thème 1 : Web.md
-    - Thème 2 : RS.md
-    - Thème 3 : SD.md
-    - Thème 4 : PN.md
+    - SNT : SNT.md
+    - Maths : Maths.md
 
 
     # Référencer vos autres pages ci-dessus...
