@@ -111,17 +111,17 @@ Une petite vidéo :
 
 Voici un exemple de requête HTTP :
 
-![http](./Images/web-requete-serveur.png)<br>
+![http](../Images/web-requete-serveur.png)<br>
 
 Réponse du serveur à une requête HTTP
 
 Une fois la requête reçue, le serveur va renvoyer une réponse, voici un exemple de réponse du serveur :
 
-![http](./Images/web-reponse-requete.png)<br>
+![http](../Images/web-reponse-requete.png)<br>
 
 
 Autre exemple de requête <br>
-![http](./Images/web-http-questions.gif)
+![http](../Images/web-http-questions.gif)
 
 A l'aide de ces exemples et de recherche sur Internet :
 
@@ -149,7 +149,7 @@ Plus formellement, le déplacement de l'utilisateur est une marche aléatoire su
 
 #### Activité en groupe
 
-![URL](./Images/web-pagerank.png)
+![URL](../Images/web-pagerank.png)
 
 1. créer un programme python simulant un lancé de dé à 6 faces. 
 2. Partant de la page A, déplacez-vous dans le graphe en suivant le résultat du dé puis notez sur quelle page vous arrivez. 
