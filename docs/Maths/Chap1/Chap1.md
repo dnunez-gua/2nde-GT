@@ -1,45 +1,28 @@
 # Ensembles de nombres - Calculs numériques
 
 !!! note "Cours"
-    [Cours Chap1](./Chap1-ensembles-calculs.pdf){:target="_blank"}  
+    [Cours Chap1](./Chap1-ensembles-calculs.pdf){:target="_blank"}   
     
-## Exercices 
-!!! example "Activités :" 
-    A page 162 <br>
-    B page 162
-
-!!! question "Recherche de limites :"
-    ===  "Exercices  :"
-        N°17 p176 (5 minutes)<br>
-        N°20 p176 (5 minutes)<br>
-        N°21 p176 (5 minutes)<br>
-        
-    ===  "Corrigé :"
-        
-        [Correction 17-20-21](./corr/17-20-21.pdf){:target="_blank"}
-        <br>
-      
-            
 !!! note "Ensembles de nombres" 
-    ===  "Rappels"
+    === "Rappels"
         Valeurs approchées p330  
         Fractions p331
-    ===  " Activité"
+    === " Activité"
         Ensembles de nombres
 
-    ===  "Cours"
+    === "Cours"
         Définitions des ensembles  
         Différence entre $\subset$ et $\in$  
         Demonstration : Montrer que $\frac{1}{3} \notin \mathbb{D}$  
         Chiffres significatifs
 
-    ===  "Exercices"
+    === "Exercices"
         Exercices p15 : 4,7,12,13
 
 !!! note "Intervalles"
-    ===  "Activité" 
+    === "Activité" 
         Droite des réels - Intervalles  
-    ===  "Cours"
+    === "Cours"
         Intervalles  
         Unions, Intersections d'ensembles  
         Encadrements  
