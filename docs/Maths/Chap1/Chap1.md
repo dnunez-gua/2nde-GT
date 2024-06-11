@@ -43,7 +43,7 @@
 !!! note "Valeur absolue"
     === "Définition"
         Valeur absolue comme distance entre deux réels  
-        $\Leftrightarrow x\in ]-r+a,r+a[$  
+        $\lvert x-a\rvert <r \Leftrightarrow x\in ]-r+a,r+a[$  
         
     === "Exercices"
         N°27-29 p18
