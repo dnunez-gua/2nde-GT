@@ -3,16 +3,22 @@
 !!! note "Cours"
     [Cours Chap1](./Chap1-ensembles-calculs.pdf){:target="_blank"}  
     
+## Exercices 
+!!! example "Activités :" 
+    A page 162 <br>
+    B page 162
+
 !!! question "Recherche de limites :"
     ===  "Exercices  :"
         N°17 p176 (5 minutes)<br>
         N°20 p176 (5 minutes)<br>
         N°21 p176 (5 minutes)<br>
-    
+        
     ===  "Corrigé :"
-     
+        
         [Correction 17-20-21](./corr/17-20-21.pdf){:target="_blank"}
         <br>
+      
             
 !!! note "Ensembles de nombres" 
     ===  "Rappels"
