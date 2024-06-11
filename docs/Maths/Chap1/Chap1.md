@@ -3,6 +3,12 @@
 !!! note "Cours"
     [Cours Chap1](./Chap1-ensembles-calculs.pdf){:target="_blank"}  
     
+!!! question "Recherche de limites :"
+    ===  "Exercices  :"
+        N°17 p176 (5 minutes)<br>
+        N°20 p176 (5 minutes)<br>
+        N°21 p176 (5 minutes)<br>
+            
 !!! note "Ensembles de nombres" 
     ===  "Rappels"
         Valeurs approchées p330  
