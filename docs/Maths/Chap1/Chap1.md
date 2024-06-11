@@ -13,7 +13,7 @@
     === " Cours "
         Définitions des ensembles  
         Différence entre $\subset$ et $\in$  
-        Demonstration : Montrer que $\frac{1}{3} \notin $\mathbb{D}$
+        Demonstration : Montrer que $\frac{1}{3} \notin \mathbb{D}$  
         Chiffres significatifs
 
     === "Exercices "
