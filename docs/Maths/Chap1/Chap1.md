@@ -8,6 +8,11 @@
         N°17 p176 (5 minutes)<br>
         N°20 p176 (5 minutes)<br>
         N°21 p176 (5 minutes)<br>
+    
+    ===  "Corrigé :"
+     
+        [Correction 17-20-21](./corr/17-20-21.pdf){:target="_blank"}
+        <br>
             
 !!! note "Ensembles de nombres" 
     ===  "Rappels"
