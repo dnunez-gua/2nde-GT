@@ -3,7 +3,7 @@
 !!! note "Cours"
     [Cours Chap1](./Chap1-ensembles-calculs.pdf){:target="_blank"}  
     
-!!! note "Ensembles de nombres :" 
+!!! note "Ensembles de nombres" 
     ===  "Rappels : "
         Valeurs approchées p330  
         Fractions p331
@@ -21,10 +21,10 @@
 
 !!! note "Intervalles"
     ===  "Activité" 
-         Droite des réels - Intervalles  
+        Droite des réels - Intervalles  
     ===  " Cours "
-         Intervalles  
-         Unions, Intersections d'ensembles  
+        Intervalles  
+        Unions, Intersections d'ensembles  
          Encadrements  
     
     ===  "Exercices"
