@@ -18,7 +18,8 @@
         Chiffres significatifs
 
     === "Exercices"
-        Exercices p15 : 4,7,12,13
+        Calculs exercices : p330-331-332 
+        Ensembles  : N°4,7,12,13 p15
 
 !!! note "Intervalles"
     === "Activité" 
